@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    height: 1200px;
+}
+
+#main-content {
+    min-height: 538px;
+    max-height: 1180px;
+    background-image: url("images/your_verse_hero.jpg");
+    background-size: cover;
+    background-position: bottom;
+    margin: 0 40px 0 40px;
+}
