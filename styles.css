@@ -115,3 +115,7 @@ a {
 #copyright {
     margin-top: 20px;
 }
+
+.beginning,.middle,.ending {
+    width: 99.9%;
+}
